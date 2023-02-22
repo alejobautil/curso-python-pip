@@ -243,5 +243,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+*.png
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
